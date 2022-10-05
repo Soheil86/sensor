@@ -1,0 +1,18 @@
+.edit-sensor{
+    margin: 50px;
+    width: 85vw;
+}
+
+h1 span{
+    font-weight: bold;
+}
+
+h1{
+    font-weight: 200;
+}
+
+.edit-sensor button{
+    width: 150px;
+    height: 30px;
+    margin: 30px 20px 0 0;
+}

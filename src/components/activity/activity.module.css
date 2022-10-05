@@ -1,0 +1,22 @@
+.container {
+    margin-bottom: 10px;
+}
+.container > div{
+    display: flex;
+    align-items: center;
+}
+.container .profileBorder{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin-right: 4px;
+}
+
+.container .time{
+    margin-left: auto;
+    width: fit-content;
+}

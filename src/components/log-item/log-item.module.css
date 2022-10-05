@@ -1,0 +1,11 @@
+.log-item{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: 10px 0;
+}
+.log-item .time{
+    width: 40%;
+    text-align: right;
+    margin-left: auto;
+}

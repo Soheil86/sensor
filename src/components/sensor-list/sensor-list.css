@@ -1,0 +1,12 @@
+.sensor-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+
+.sensor-list button{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}

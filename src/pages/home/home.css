@@ -1,0 +1,30 @@
+.home-page{
+    margin: 50px;
+    width: 85vw;
+}
+
+.highlight{
+    display: flex;
+    justify-content: space-between;
+}
+
+.highlight-container{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.highlight-container svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.list-container{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+canvas{
+    max-height: 100%;
+}

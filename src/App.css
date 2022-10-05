@@ -1,0 +1,11 @@
+input, select{
+  display: block;
+  height: 40px;
+  width: 300px;
+  margin: 20px 0;
+}
+
+input [type='checkbox'] {
+  display: inline-block;
+  border: 5px solid red;
+}
